@@ -35,8 +35,8 @@ Libraries used are:
 	
 
 To run the code in Python environment:
-	Change directory to the folder having the data set and type the command
-		“ cd /path/to/project/folder/ “
-	To run the program,	
-		“ python3 main.py ”
+Change directory to the folder having the data set and type the command
+	“ cd /path/to/project/folder/ “
+To run the program,	
+	“ python3 main.py ”
 
